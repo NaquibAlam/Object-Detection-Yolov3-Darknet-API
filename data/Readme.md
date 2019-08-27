@@ -1,1 +1,2 @@
-This folder contains all the dataset from the competition https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/notebooks.
+-- This folder contains all the csv files from the competition https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/notebooks. But in order to use this code we still need to download the train and test image folders from the competition page. Since image folders have a huge size, it's not feasible to upload it here.
+-- 
